@@ -4,7 +4,7 @@
 
 This repository was created to facilitate domain verification for my personal Bluesky account via the AT Protocol (ATProto).
 
-By hosting a verification file at the following URL: [https://samin-yasar.github.io/.well-known/atproto-did]
+By hosting a verification file at the following URL: https://samin-yasar.github.io/.well-known/atproto-did
 
 
 I was able to successfully verify ownership of the domain `samin-yasar.github.io` with Bluesky.
